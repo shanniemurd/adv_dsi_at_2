@@ -87,3 +87,8 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+# exclude custom files
+
+/notebooks/archive/
+/notebooks/WeightedRandomSampler_exercise.ipynb
